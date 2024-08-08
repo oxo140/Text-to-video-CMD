@@ -9,6 +9,7 @@
 🔧 Il faudra télécharger l’application.exe. 🔧
 
 🔧 Il faut télécharger tous les DLL présent à l'intérieur de "FichierDLL" et les copier coller dans “ C:\Windows\System32 “. 🔧
+
 🔧 Note : un DLL est au format.RAR pour ca compression 🔧
 
 ✔️ Vous pouvez alors lancer l’application “cree text.exe” sur windows 10. ✔️
