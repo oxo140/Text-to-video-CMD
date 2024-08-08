@@ -1,15 +1,19 @@
+<div align="center">
+
 # Text-to-video-CMD ✔️
 
-🎥 Cette Application a pour objectif de crée un fichier video mp4 grace a une entrer text dans un terminal 🎥
+</div>
 
-🔧 Comment Installer leu logiciel de création de text vidéo. 🔧
+🎥 Cette Application a pour objectif de crée un fichier video mp4 grace a une entrer text dans un terminal
 
-🔧 L’application s'exécute sur un Windows 10. 🔧
+🛠️ Instructions d'installation 
 
-🔧 Il faudra télécharger l’application.exe. 🔧
+🔧 L’application s'exécute sur un Windows 10.
 
-🔧 Il faut télécharger tous les DLL présent à l'intérieur de "FichierDLL" et les copier coller dans “ C:\Windows\System32 “. 🔧
+🔧 Il faudra télécharger le repo.
 
-🔧 Note : un DLL est au format.RAR pour ca compression 🔧
+🔧 Il faut copier tous les DLL présent à l'intérieur de "FichierDLL" dans “ C:\Windows\System32 “.
 
-✔️ Vous pouvez alors lancer l’application “cree text.exe” sur windows 10. ✔️
+⚠️ Note : un DLL est au format.RAR pour ca compression penser a le décompresser !
+
+✔️ Vous pouvez alors lancer l’application “cree text.exe” sur windows 10.
